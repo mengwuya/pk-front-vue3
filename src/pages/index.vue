@@ -1,5 +1,8 @@
 <template>
-  <div>hello world</div>
+  <div>
+    <HelloWorld />
+    <UserUserComponent />
+  </div>
 </template>
 
 <script setup lang="ts"></script>
